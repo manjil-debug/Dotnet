@@ -1,5 +1,8 @@
-﻿namespace ApexRestaurant.Services;
-public class Class1
-{
+﻿using System;
 
+namespace ApexRestaurant.Services
+{
+    public class Class1
+    {
+    }
 }
